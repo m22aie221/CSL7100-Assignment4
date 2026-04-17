@@ -15,3 +15,6 @@ queryFindPagesWhichContainWord function
 addPage stacklighting
 addPage stackmagazine
 queryFindPagesWhichContainWord magazines
+queryFindPagesWhichContainAllWords stack
+queryFindPagesWhichContainAllWords function return value
+queryFindPagesWhichContainAllWords stack data structure
